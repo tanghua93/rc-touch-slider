@@ -1,6 +1,6 @@
 {
-  "name": "rmc-touch-slider",
-  "version": "0.0.1",
+  "name": "rc-touch-slider",
+  "version": "1.0.2",
   "description": "react-component touch-slider ",
   "main": "build/index.js",
   "scripts": {
