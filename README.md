@@ -21,7 +21,6 @@ import Slider from 'rc-touch-slider';
 	<Slider.Item><img src={require('./81598333_p0.jpg')} /></Slider.Item>
 </Slider>
 ```
-## ssss
 <img src="https://github.com/smilelabi/upload-img-files/raw/master/style2.gif"/>
 
 ### 2、Thumbnail
