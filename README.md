@@ -9,7 +9,7 @@ npm install --save rc-touch-slider
 
 ## Usage
 
-> *** There are three styles ***
+> ***There are three styles***
 
 ### 1、conventional
 ```
