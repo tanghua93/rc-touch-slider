@@ -29,7 +29,7 @@ import Slider from 'rc-touch-slider';
 const data = [
   {
     thumb: require('./81598333_p0.jpg'),
-	img: require('./81598333_p0.jpg')
+    img: require('./81598333_p0.jpg')
   },
   {
     thumb: require('./81598333_p0.jpg'),
@@ -37,11 +37,11 @@ const data = [
   },
   {
     thumb: require('./81598333_p0.jpg'),
-	img: require('./81598333_p0.jpg')
+    img: require('./81598333_p0.jpg')
   },
   {
     thumb: require('./81598333_p0.jpg'),
-	img: require('./81598333_p0.jpg')
+    img: require('./81598333_p0.jpg')
 }];
 <Slider controls={false}>
 	{
@@ -65,7 +65,7 @@ import Slider from 'rc-touch-slider';
 const data = [
   {
      desc: '这是一张图片标题1',
-	img: require('./81598333_p0.jpg')
+     img: require('./81598333_p0.jpg')
   },
   {
      desc: '这是一张图片标题1',
@@ -73,11 +73,11 @@ const data = [
   },
   {
      desc: '这是一张图片标题1',
-	img: require('./81598333_p0.jpg')
+     img: require('./81598333_p0.jpg')
   },
   {
     desc: '这是一张图片标题1',
-	img: require('./81598333_p0.jpg')
+    img: require('./81598333_p0.jpg')
 }];
 <Slider controls={false}>
 	{
